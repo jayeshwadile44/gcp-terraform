@@ -1,2 +1,0 @@
-# gcp-terraform
-gcp-terraform
